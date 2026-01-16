@@ -1,5 +1,5 @@
 '''
-Docstring for Decorators:
+This is the Docstring for Decorators:
 -> Decorators let you add extra behavior to a function, without changing the function's code.
 -> A decorator is a function that takes another function as input and returns a new function.
 
